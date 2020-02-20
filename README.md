@@ -6,9 +6,9 @@
 
 ## :book: Sobre o projeto
 
-<p> Este foi um projeto desenvolvido nos dias 17 e 18 de Fevereiro de 2019 na MaratonaDev da Rocketseat, sendo em sua terceira edição 
+<p> Este foi um projeto desenvolvido nos dias 17 e 18 de Fevereiro de 2020 na MaratonaDev da Rocketseat, sendo em sua terceira edição 
 (mentira, é a primeira, mas nomearam como terceira por ser seguida da terceira turma do LaunchBase). Ele ocorreu de forma gratuita e com
-o objetivo de apresentar algumas das tecnologias e linguagens mais usadas para quem ingressando agora na área de desenvolvimento.
+o objetivo de apresentar algumas das tecnologias e linguagens mais usadas para quem está ingressando agora na área de desenvolvimento.
 
 É um sistema muito simples para se cadastrar como doador de sangue.
 </p>
